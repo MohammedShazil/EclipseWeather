@@ -1,1 +1,20 @@
+🌤 EclipseWeather
+
+EclipseWeather is a sleek and sophisticated weather app built with **Vite + React.js** and styled using **Material UI**. The app fetches real-time weather data from OpenWeather API and displays it in a modern UI.
+
+ 🚀 Features
+- 🌆 Search for any city’s weather  
+- 📊 View temperature, humidity, and more  
+- 🌄 Dynamic background images based on weather
+- 🖌️ Premium, minimalist and responsive UI
+
+📸 Screenshot 
+
+
+## 🔧 Installation  
+
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/your-username/EclipseWeather.git
+cd EclipseWeather
 
